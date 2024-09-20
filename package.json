@@ -1,0 +1,11 @@
+{
+  "name": "chat-websocket",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:Maria-Gozdawa-Golebiowska/chat-websocket.git",
+  "author": "Maria Gozdawa-Gołębiowska <m.gozdawa-golebiowska@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.21.0"
+  }
+}
